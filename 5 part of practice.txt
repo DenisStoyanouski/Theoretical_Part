@@ -1,9 +1,28 @@
 ﻿1. Что подразумевается под тестовой средой?
+- test environment - an environment containing hardware,instrumentation, simulators, software tools and other support needed to conduct a test.
 2. В чем отличие build от release?
+- the "build" is given by dev team to the test team. A "realise" is formal realese of the product to its customers.
 3. Основные фазы тестирования?
+STLC Phases
+>Requirement analysis - when the srd is ready and shared with the stakeholders, the testing team starts high level analysis concerning the AUT
+>Test planning - test team plans the strategy and approach
+>Test cases designing - develop the test cases based on scope and criteria's.
+>Test environment setup - when intedrated environment is ready to validate the product.
+>Test execution - real-time validation of product and finding bugs.
+>Test reporting & closure - once testing is completed, matrix, reports, result are documented.
 4. Что такое импакт анализ?
+Impact analysis - the identification of all work products affected by a change, including an estimate of the resources needed to accomplish the change.
 5. Критерии выбора тестов?
+
 6. Принципы тестирования?
+Software testing principles
+>Testing shows the presence of defects, not their absence
+>Exhaustive testing is impossible
+>Early testing saves time and money
+>Defects cluster together
+>Beware of the pesticide paradox
+>Testing is context dependent
+>Absence-of-errors is a fallacy
 7. Что такое независимое тестирование?
 8. Что такое тестирование со сдвигом влево?
 9. Почему тестирование делится на отдельные этапы?
