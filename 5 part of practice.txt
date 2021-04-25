@@ -74,8 +74,15 @@ defined by IEEE, W3C or ETSI.
 32. Что такое нефункциональное тестирование?
 non-functionl testing - testing performed to evaluate that a component or system complies with non-functional requirements.
 33. Что вы знаете о Тестировании удобства пользования?
+usability - a testing method for measuring how easy and user-friendly a software application is. A small set of target and-users, use software is 
+application to expose usability defects.Usability testing mainly focuses on user's ease of using application, flexibility of application to handle controls
+and ability of application to meet its objectives.
 34. Отличия тестирование на удобство пользования и тестирования доступности? (Usability Vs. Accessibility testing)
+accessibility testing - a type testing performed to ensure that the application being tested is usable by people with disabilities like hearing,
+color blindness, old age and other disadvantaged groups.
 35. Что такое тестирование интерфейса?
+interface testing - a type of testing which verifies whether the communication between two different software systems is done correctly.
+a connection that integrates two components is called interface. This interface in a computer world could be anything like API's, web services, etc.
 36. Что такое тестирование рабочего процесса/воркфлоу? (Workflow testing)
 37. Что вы знаете о пользовательском приемочном тестировании? (UAT – User Acceptance testing)
 38. Что такое эксплуатационное приемочное тестирование? (OAT — Operational Acceptance testing)
