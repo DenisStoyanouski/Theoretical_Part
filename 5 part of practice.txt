@@ -26,9 +26,11 @@ Software testing principles
 7. Что такое независимое тестирование?
 
 8. Что такое тестирование со сдвигом влево?
+
 9. Почему тестирование делится на отдельные этапы?
 
 10. Какие есть этапы тестирования?
+
 11. Как вы тестируете продукт, если требования еще не зафиксированы?
 12. Как вы узнаете, было ли создано достаточно тестов для тестирования продукта?
 13. Что подразумевается под тестовыми данными? 
@@ -36,6 +38,8 @@ test data - data needed for test execution
 14. Что такое бета-тестирование?
 beta testing - a type of acceptance testing performed at an external site to the developer's test environment by roles outside the development organization
 15. Что означает пилотное тестирование? (Pilot)
+pilot testing - a type of testing that verifies a component of the system or the entire syre under a real-time operating conduction. The purpose of it is 
+to evaluate the feasibility, time, cost, risk and performance of a research project. This testing is done exactly between the UAT and Production.
 16. В чем отличие build от release?
 17. Что такое бизнес – логика?
 18. Какие существуют основные виды тестирования ПО?
