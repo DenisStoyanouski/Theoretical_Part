@@ -39,11 +39,17 @@ beta testing - a type of acceptance testing performed at an external site to the
 16. В чем отличие build от release?
 17. Что такое бизнес – логика?
 18. Какие существуют основные виды тестирования ПО?
+
 19. Методы тестирования?
+
 20. Что такое пирамида / уровни тестирования?
 21. Что такое деструктивное/разрушающее/негативное тестирование? (DT — Destructive testing)
+negative testing - testing a component or system in a way for which is was not intended to be used
 22. Что такое недеструктивное/неразрушающее/позитивное тестирование? (NDT – Non Destructive testing)
-23. Что подразумевается под компонентным/модульным/юнит тестированием? (Component/Module/Unit testing)
+positive testing - is a type of testing which is performed on a software application by providing the valid data sets s an input or not. 
+It checks wheter the software application behaves as expected with positive inputs or not.
+23. Что подразумевается под компонентным/модульным/юнит тестированием? (Component/Module/Unit testin)
+component testing - a test level that focuses on individual hardware or software components (synonyms: module testing, unit testing)
 24. Что подразумевается под интеграционным тестированием?
 25. Разница между Unit testing и Integration testing?
 26. Что такое системное интеграционное тестирование? (SIT — System Integration testing) 
