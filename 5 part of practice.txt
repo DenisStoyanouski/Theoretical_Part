@@ -66,8 +66,13 @@ system testing - a test level that focuses on verifying that a system as a whole
 29. Что такое функциональное тестирование?
 functional testing - testing performed to evaluate if a component or system stisfied functional requirements.
 30. Что такое тестирование совместимости/взаимодействия? (Compatibility/Interoperability testing)
+compatibility testing - type og testing to check whether your software is capable of running on different hardware, operationg system, applications,
+network environments or mobile devices.
 31. Что такое тестирование на соответствие? (Conformance/Compilance testing)
+conformance/compilance testing - a software testing technique used to certify that the software system complies the standards and regulations as 
+defined by IEEE, W3C or ETSI.
 32. Что такое нефункциональное тестирование?
+non-functionl testing - testing performed to evaluate that a component or system complies with non-functional requirements.
 33. Что вы знаете о Тестировании удобства пользования?
 34. Отличия тестирование на удобство пользования и тестирования доступности? (Usability Vs. Accessibility testing)
 35. Что такое тестирование интерфейса?
