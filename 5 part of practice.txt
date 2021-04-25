@@ -84,9 +84,17 @@ color blindness, old age and other disadvantaged groups.
 interface testing - a type of testing which verifies whether the communication between two different software systems is done correctly.
 a connection that integrates two components is called interface. This interface in a computer world could be anything like API's, web services, etc.
 36. Что такое тестирование рабочего процесса/воркфлоу? (Workflow testing)
+workflow testing - a type of software testing, which checks that each software workflow accurately reflects the given business process. A workflow is a 
+series of task to produce a desired outcome, which usually involves several stages or steps. For any business process, testing of these sequential steps 
+define as "WorkFlow Testing".
 37. Что вы знаете о пользовательском приемочном тестировании? (UAT – User Acceptance testing)
+User Acceptance Testing (UAT) is a type of testing performed by the end user or the client to verify/accept the software system before moving the software
+application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
 38. Что такое эксплуатационное приемочное тестирование? (OAT — Operational Acceptance testing)
+Operational Acceptance Testing (OAT) is a software testing technique which evaluate the operational readiness of a software application prior to the 
+release or production. The goal of OAT is ensuring system and component compliance and smooth system operation in its Standard Operating Environment (SOE)
 39. Что такое инсталляционное тестирование?
+
 40. Что вы знаете о тестировании безопасности?
 41. Что такое конфигурационное тестирование?
 42. Объясните, что такое тестирование N+1
