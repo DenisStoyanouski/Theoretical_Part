@@ -116,6 +116,8 @@ Security testing is a type that uncovers vulnerabilitity, threats, risks in a so
 The purpose of Security tests is to indentify all possible loopholes and weakness of the software system which might result in a loss of information,
 revenue, repute at the hands of the employees or outsiders of the Organization.
 41. Что такое конфигурационное тестирование?
+Configuration testing is a software testing technique in which the software application is tested with multiple combinations of software and hardware 
+in order to evaluate the functional requirements and find out optimal configurations under which the software application works without any defects or flaws.
 42. Объясните, что такое тестирование N+1
 43. Что вы знаете о тестировании сборки? (Build Verification Test)
 44. Что такое тестирование потоков? (Thread testing)
