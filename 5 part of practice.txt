@@ -48,7 +48,12 @@ test type - a gorup of test activities based on specific test objectives aimed a
 
 20. Что такое пирамида / уровни тестирования?
 test level - a specific instantiation of a test process
-
+Ideal test pyramid
+Function Test (GUI)        -
+API Test                  --- 
+Integration Test		-------	
+Component test		---------------
+Unit test		-----------------------
 21. Что такое деструктивное/разрушающее/негативное тестирование? (DT — Destructive testing)
 negative testing - testing a component or system in a way for which is was not intended to be used
 22. Что такое недеструктивное/неразрушающее/позитивное тестирование? (NDT – Non Destructive testing)
