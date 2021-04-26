@@ -48,7 +48,7 @@ test type - a gorup of test activities based on specific test objectives aimed a
 
 20. Что такое пирамида / уровни тестирования?
 test level - a specific instantiation of a test process
-Ideal test pyramid
+Ideal test pyramid:
 Function Test (GUI)        -
 API Test                  --- 
 Integration Test		-------	
@@ -103,7 +103,14 @@ application to the production environment. UAT is done in the final phase of tes
 Operational Acceptance Testing (OAT) is a software testing technique which evaluate the operational readiness of a software application prior to the 
 release or production. The goal of OAT is ensuring system and component compliance and smooth system operation in its Standard Operating Environment (SOE)
 39. Что такое инсталляционное тестирование?
-
+Installation testing it is persormed to verify if the software has been installed with all the necessary components and the application is working as expected.
+types of installation:
+>Silent 
+>Attended
+>Unattended
+>Network
+>Clean
+>Automated
 40. Что вы знаете о тестировании безопасности?
 41. Что такое конфигурационное тестирование?
 42. Объясните, что такое тестирование N+1
