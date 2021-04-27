@@ -1,7 +1,9 @@
 ﻿1. Что подразумевается под тестовой средой?
 - test environment - an environment containing hardware,instrumentation, simulators, software tools and other support needed to conduct a test.
+
 2. В чем отличие build от release?
 - the "build" is given by dev team to the test team. A "realise" is formal realese of the product to its customers.
+
 3. Основные фазы тестирования?
 STLC Phases
 >Requirement analysis - when the srd is ready and shared with the stakeholders, the testing team starts high level analysis concerning the AUT
@@ -10,8 +12,10 @@ STLC Phases
 >Test environment setup - when intedrated environment is ready to validate the product.
 >Test execution - real-time validation of product and finding bugs.
 >Test reporting & closure - once testing is completed, matrix, reports, result are documented.
+
 4. Что такое импакт анализ?
 Impact analysis - the identification of all work products affected by a change, including an estimate of the resources needed to accomplish the change.
+
 5. Критерии выбора тестов?
 
 6. Принципы тестирования?
@@ -32,18 +36,26 @@ Software testing principles
 10. Какие есть этапы тестирования?
 
 11. Как вы тестируете продукт, если требования еще не зафиксированы?
+
 12. Как вы узнаете, было ли создано достаточно тестов для тестирования продукта?
+
 13. Что подразумевается под тестовыми данными? 
 test data - data needed for test execution
+
 14. Что такое бета-тестирование?
 beta testing - a type of acceptance testing performed at an external site to the developer's test environment by roles outside the development organization
+
 15. Что означает пилотное тестирование? (Pilot)
 pilot testing - a type of testing that verifies a component of the system or the entire syre under a real-time operating conduction. The purpose of it is 
 to evaluate the feasibility, time, cost, risk and performance of a research project. This testing is done exactly between the UAT and Production.
+
 16. В чем отличие build от release?
+
 17. Что такое бизнес – логика?
+
 18. Какие существуют основные виды тестирования ПО?
 test type - a gorup of test activities based on specific test objectives aimed at specific characteristics of a component or system.
+
 19. Методы тестирования?
 
 20. Что такое пирамида / уровни тестирования?
@@ -54,54 +66,73 @@ API Test                  ---
 Integration Test		-------	
 Component test		---------------
 Unit test		-----------------------
+
 21. Что такое деструктивное/разрушающее/негативное тестирование? (DT — Destructive testing)
 negative testing - testing a component or system in a way for which is was not intended to be used
+
 22. Что такое недеструктивное/неразрушающее/позитивное тестирование? (NDT – Non Destructive testing)
 positive testing - a type of testing which is performed on a software application by providing the valid data sets s an input or not. 
 It checks wheter the software application behaves as expected with positive inputs or not.
+
 23. Что подразумевается под компонентным/модульным/юнит тестированием? (Component/Module/Unit testin)
 component testing - a test level that focuses on individual hardware or software components (synonyms: module testing, unit testing)
+
 24. Что подразумевается под интеграционным тестированием?
 integration testing - a test level that focuses on interactions between components or systems.
+
 25. Разница между Unit testing и Integration testing?
+
 26. Что такое системное интеграционное тестирование? (SIT — System Integration testing)
 system intergration testing - a test level that focuses on interactions between systems. 
+
 27. В чем разница между тест-драйвером и тест-заглушкой? (Test Driver and Test Stub)
 Driver - a temporary component or tool that replaces another component and controles or calls a test item in isolation
 Stub - a skeletal or special-purpose implementation of a software component, used to developer or test a component that calls or is otherwise dependent on ii.
 It replaces a called component.
+
 28. Что подразумевается под системным тестированием?
 system testing - a test level that focuses on verifying that a system as a whole meets specified requirements.
+
 29. Что такое функциональное тестирование?
 functional testing - testing performed to evaluate if a component or system stisfied functional requirements.
+
 30. Что такое тестирование совместимости/взаимодействия? (Compatibility/Interoperability testing)
 compatibility testing - type og testing to check whether your software is capable of running on different hardware, operationg system, applications,
 network environments or mobile devices.
+
 31. Что такое тестирование на соответствие? (Conformance/Compilance testing)
 conformance/compilance testing - a software testing technique used to certify that the software system complies the standards and regulations as 
 defined by IEEE, W3C or ETSI.
+
 32. Что такое нефункциональное тестирование?
 non-functionl testing - testing performed to evaluate that a component or system complies with non-functional requirements.
+
 33. Что вы знаете о Тестировании удобства пользования?
 usability - a testing method for measuring how easy and user-friendly a software application is. A small set of target and-users, use software is 
 application to expose usability defects.Usability testing mainly focuses on user's ease of using application, flexibility of application to handle controls
 and ability of application to meet its objectives.
+
 34. Отличия тестирование на удобство пользования и тестирования доступности? (Usability Vs. Accessibility testing)
 accessibility testing - a type testing performed to ensure that the application being tested is usable by people with disabilities like hearing,
 color blindness, old age and other disadvantaged groups.
+
 35. Что такое тестирование интерфейса?
 interface testing - a type of testing which verifies whether the communication between two different software systems is done correctly.
 a connection that integrates two components is called interface. This interface in a computer world could be anything like API's, web services, etc.
+
 36. Что такое тестирование рабочего процесса/воркфлоу? (Workflow testing)
 workflow testing - a type of software testing, which checks that each software workflow accurately reflects the given business process. A workflow is a 
 series of task to produce a desired outcome, which usually involves several stages or steps. For any business process, testing of these sequential steps 
 define as "WorkFlow Testing".
+
 37. Что вы знаете о пользовательском приемочном тестировании? (UAT – User Acceptance testing)
 User Acceptance Testing (UAT) is a type of testing performed by the end user or the client to verify/accept the software system before moving the software
 application to the production environment. UAT is done in the final phase of testing after functional, integration and system testing is done.
+
 38. Что такое эксплуатационное приемочное тестирование? (OAT — Operational Acceptance testing)
 Operational Acceptance Testing (OAT) is a software testing technique which evaluate the operational readiness of a software application prior to the 
 release or production. The goal of OAT is ensuring system and component compliance and smooth system operation in its Standard Operating Environment (SOE)
+
 39. Что такое инсталляционное тестирование?
 Installation testing it is persormed to verify if the software has been installed with all the necessary components and the application is working as expected.
 types of installation:
@@ -111,22 +142,42 @@ types of installation:
 >Network
 >Clean
 >Automated
+
 40. Что вы знаете о тестировании безопасности?
 Security testing is a type that uncovers vulnerabilitity, threats, risks in a software application and prevents malicious attacks from intruders.
 The purpose of Security tests is to indentify all possible loopholes and weakness of the software system which might result in a loss of information,
 revenue, repute at the hands of the employees or outsiders of the Organization.
+
 41. Что такое конфигурационное тестирование?
 Configuration testing is a software testing technique in which the software application is tested with multiple combinations of software and hardware 
 in order to evaluate the functional requirements and find out optimal configurations under which the software application works without any defects or flaws.
 42. Объясните, что такое тестирование N+1
+
 43. Что вы знаете о тестировании сборки? (Build Verification Test)
+
 44. Что такое тестирование потоков? (Thread testing)
+Thread testing - a variation of top-down testing technique where the progressive integration of components followes the implementation of subsets of the requirements.
+
 45. Что вы знаете о мутационном тестировании? (Mutation testing)
+Mutation testing - method of software testing which involves modifying programs' source code or byte code in small ways in order to test sections of the code
+that are seldom or never accessed during normal tests execution.
+
 46. Что вы знаете о мутационном тестировании? (Mutation testing)
+
 47. В чем разница между Baseline и Benchmark testing?
+
 48. Что такое A/B тестирование?
+
 49. Что означает сквозное тестирование? (E2E — End–to–End)
+E2E testing - similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, suac as interacting with
+a database, using network communications, or interacting with other hardware, applications, or systems if appropriate.
+
 50. В чем разница между E2E и системным тестированием?
+System testing - the process of testing an integrated hardware and software system to verify that the system meets its specified requirements.
+
 51. Что такое параллельное тестирование? (Parallel testing)
+Parallel testing - testing technique which has the purpose to ensure that a new application which has replaced its old version has been installed and 
+is running correctly.
+
 52. Чем AdHock тестирование отличается от Исследовательского тестирования?
-53.
+the difference between adHoc and exploratory testing is having experience for testing similar application.
