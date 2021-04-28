@@ -27,9 +27,14 @@ Software testing principles
 >Beware of the pesticide paradox
 >Testing is context dependent
 >Absence-of-errors is a fallacy
+
 7. Что такое независимое тестирование?
+Independent testing - testing corresponds to an independent team, who involve in testing activities other than developer to avoid author bias and is often 
+more effective at finding defects and failures.
 
 8. Что такое тестирование со сдвигом влево?
+Shift-left testing is an approach to software testing and system testing in which testing is performed earlier in the lifecycle (i.e. moved left
+on the project timeline). It is the first half of the maxim "Test early and often".
 
 9. Почему тестирование делится на отдельные этапы?
 
@@ -81,6 +86,7 @@ component testing - a test level that focuses on individual hardware or software
 integration testing - a test level that focuses on interactions between components or systems.
 
 25. Разница между Unit testing и Integration testing?
+difference between unit and integration testing is focuses on componets and interactions between components.
 
 26. Что такое системное интеграционное тестирование? (SIT — System Integration testing)
 system intergration testing - a test level that focuses on interactions between systems. 
