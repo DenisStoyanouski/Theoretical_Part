@@ -57,9 +57,10 @@ to evaluate the feasibility, time, cost, risk and performance of a research proj
 16. В чем отличие build от release?
 
 17. Что такое бизнес – логика?
+Business logic is something between the ultimate business goals of each application and the general rule of what exactly a software should do.
 
 18. Какие существуют основные виды тестирования ПО?
-test type - a gorup of test activities based on specific test objectives aimed at specific characteristics of a component or system.
+test type - a group of test activities based on specific test objectives aimed at specific characteristics of a component or system.
 
 19. Методы тестирования?
 
@@ -157,9 +158,12 @@ revenue, repute at the hands of the employees or outsiders of the Organization.
 41. Что такое конфигурационное тестирование?
 Configuration testing is a software testing technique in which the software application is tested with multiple combinations of software and hardware 
 in order to evaluate the functional requirements and find out optimal configurations under which the software application works without any defects or flaws.
+
 42. Объясните, что такое тестирование N+1
+Smoke testing performed on a particular build is also known as a build verification test.
 
 43. Что вы знаете о тестировании сборки? (Build Verification Test)
+Smoke testing performed on a particular build is also known as a build verification test.
 
 44. Что такое тестирование потоков? (Thread testing)
 Thread testing - a variation of top-down testing technique where the progressive integration of components followes the implementation of subsets of the requirements.
@@ -171,8 +175,12 @@ that are seldom or never accessed during normal tests execution.
 46. Что вы знаете о мутационном тестировании? (Mutation testing)
 
 47. В чем разница между Baseline и Benchmark testing?
+>Baseline Testing metrics are recorded after the application undergo performanse testing. Benchmark Testing metrics are often pre-establish to evaluate the performance.
+>Baseline Testing is specific to an individual software application. Benchmark Testing is often applicable to all the software applications belong to an organization.
+>Base Testing is done form the application and user experience point of view. Benchmark testing is dine from business and SLA point of view.
 
 48. Что такое A/B тестирование?
+A/B testing is the technique of compating two different versions (A and B) of the same webpage to determine which one performs better.
 
 49. Что означает сквозное тестирование? (E2E — End–to–End)
 E2E testing - similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, suac as interacting with
