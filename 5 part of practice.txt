@@ -141,7 +141,7 @@ Operational Acceptance Testing (OAT) is a software testing technique which evalu
 release or production. The goal of OAT is ensuring system and component compliance and smooth system operation in its Standard Operating Environment (SOE)
 
 39. Что такое инсталляционное тестирование?
-Installation testing it is persormed to verify if the software has been installed with all the necessary components and the application is working as expected.
+Installation testing it is performed to verify if the software has been installed with all the necessary components and the application is working as expected.
 types of installation:
 >Silent 
 >Attended
@@ -160,7 +160,7 @@ Configuration testing is a software testing technique in which the software appl
 in order to evaluate the functional requirements and find out optimal configurations under which the software application works without any defects or flaws.
 
 42. Объясните, что такое тестирование N+1
-Smoke testing performed on a particular build is also known as a build verification test.
+
 
 43. Что вы знаете о тестировании сборки? (Build Verification Test)
 Smoke testing performed on a particular build is also known as a build verification test.
@@ -177,13 +177,13 @@ that are seldom or never accessed during normal tests execution.
 47. В чем разница между Baseline и Benchmark testing?
 >Baseline Testing metrics are recorded after the application undergo performanse testing. Benchmark Testing metrics are often pre-establish to evaluate the performance.
 >Baseline Testing is specific to an individual software application. Benchmark Testing is often applicable to all the software applications belong to an organization.
->Base Testing is done form the application and user experience point of view. Benchmark testing is dine from business and SLA point of view.
+>Base Testing is done form the application and user experience point of view. Benchmark testing is done from business and SLA point of view.
 
 48. Что такое A/B тестирование?
 A/B testing is the technique of compating two different versions (A and B) of the same webpage to determine which one performs better.
 
 49. Что означает сквозное тестирование? (E2E — End–to–End)
-E2E testing - similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, suac as interacting with
+E2E testing - similar to system testing, involves testing of a complete application environment in a situation that mimics real-world use, such as interacting with
 a database, using network communications, or interacting with other hardware, applications, or systems if appropriate.
 
 50. В чем разница между E2E и системным тестированием?
