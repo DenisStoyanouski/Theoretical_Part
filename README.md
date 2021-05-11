@@ -1,2 +1,2 @@
 # Theoretical_Part
-This repo includes some teoretical issues about testing
+This repo includes some theoretical issues about testing
